@@ -1,0 +1,8 @@
+D:\代码2011上\STORM\DataAccess\obj\Release\ResolveAssemblyReference.cache
+D:\Code2012B\DataAccess\bin\Release\DataAccess.dll.config
+D:\Code2012B\DataAccess\bin\Release\DataAccess.dll
+D:\Code2012B\DataAccess\bin\Release\DataAccess.pdb
+D:\Code2012B\DataAccess\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\Code2012B\DataAccess\bin\Release\MySql.Data.dll
+D:\Code2012B\DataAccess\obj\Release\DataAccess.dll
+D:\Code2012B\DataAccess\obj\Release\DataAccess.pdb
